@@ -1,5 +1,5 @@
 public class Printer {
-	void print(String str) {
+	static void print(String str) {
 		System.out.println(str);
 	}
 }
